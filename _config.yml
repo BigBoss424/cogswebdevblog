@@ -5,7 +5,7 @@ url: "https://bigboss424.github.io/cogswebdevblog/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
+  title: Cogs Web Development and Hosting Development Blog
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -81,7 +81,7 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-admin]
 exclude:
   - Gemfile
   - Gemfile.lock
