@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://rohanchandra.github.io/"
+baseurl: "/"
+url: "https://bigboss424.github.io/cogswebdevblog/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
