@@ -2,11 +2,11 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/sample_feature_img_2.png"
+feature-img: assets/img/sample_feature_img_2.png
+published: true
 ---
+Cogs Web Development and Hosting is a company that currently is ran by it's owner, Aaron Jones and specializes in developing web applications and websites for small businesses. Helping small businesses and entrepeneurs alike with their technology and online needs in order to build and develop growth over time. 
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Cogs Web Development and Hosting, also provides website hosting for individuals and small businesses. Delivering quality service towards each client, and taking into consideration each client's specialized needs towards their projects. 
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Founded in 2017, Cogs Web Development and Hosting provides services for hardware repair and maintainance. Providing exceptional service and quality care for client's hardware needs. Ranging from computer upgrades to computer repair, Cogs Web Development and Hosting can and will service your hardware needs. 
