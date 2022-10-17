@@ -16,11 +16,13 @@ theme_settings:
      <p>Cogs Web Development and Hosting Development Blog</p>
 
      <p>Will be continuously updating this site as develop of the main
-        site will be progressing over the span of the next couple of months.
+        site will be progressing over the span of the next couple of 			months.
      </p>
+     
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+   Cogs Web Development and Hosting &#169; 2017-2022
 
   # Icons
   rss: false
