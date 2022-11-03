@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: Automation and AI 
+published: true
 ---
 ## Automation and AI
 

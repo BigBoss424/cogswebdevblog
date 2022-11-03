@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: Errors and AI
+published: true
 ---
 ## Errors and AI
 
