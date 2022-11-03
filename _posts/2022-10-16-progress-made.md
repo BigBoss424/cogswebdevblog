@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: Progress Made 
+published: true
 ---
 ## Progress Made Today
 
