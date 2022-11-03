@@ -7,6 +7,10 @@
 name: 'Dependency Review'
 on: [pull_request]
 
+workflow_dispatch:
+
+#Allows the workflow to be ran manually in the Github Action
+
 permissions:
   contents: read
 
