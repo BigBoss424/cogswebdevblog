@@ -6,7 +6,7 @@ url: "https://bigboss424.github.io/cogswebdevblog/"
 theme_settings:
   # Meta
   title: Cogs Web Development and Hosting Development Blog
-  avatar: assets/img/avatar.png
+  avatar: assets/img/avatar-48.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "Cogs Web Development and Hosting Development Blog" # used by search engines
