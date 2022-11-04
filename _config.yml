@@ -31,7 +31,7 @@ theme_settings:
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "https://www.facebook.com/cogswebdevandhosting"
   flickr:
   gitlab:
   github: "bigboss424/cogswebdevblog"
@@ -47,7 +47,7 @@ theme_settings:
   tumblr:
   twitter:
   wordpress:
-  youtube:
+  youtube: "https://www.youtube.com/channel/UC3u9HGbqqyB8n4s5zA8otlA"
 
   # Scripts
   google_analytics: G-K1V4NB8ZLQ # Tracking ID, e.g. "UA-000000-01"
