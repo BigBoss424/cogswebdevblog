@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: Developing Once Again
+published: true
 ---
 ## Developing Once Again
 Learning how to progress myself from a coder to a programmer is a lot of work but I think it will be worth it towards the end. I am learning a variety of different technologies and being exposed to a lot of techniques and methodologies that I thought I had an understanding of but didn't fully grasp until now. 

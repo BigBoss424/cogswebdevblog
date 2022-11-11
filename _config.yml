@@ -21,7 +21,8 @@ theme_settings:
      
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <br>
+   <a href="https://github.com/rohanchandra/type-theme">Type Theme</a> <br>
    Cogs Web Development and Hosting &#169; 2017-2022
 
   # Icons
@@ -30,7 +31,7 @@ theme_settings:
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "https://www.facebook.com/cogswebdevandhosting"
   flickr:
   gitlab:
   github: "bigboss424/cogswebdevblog"
@@ -46,10 +47,10 @@ theme_settings:
   tumblr:
   twitter:
   wordpress:
-  youtube:
+  youtube: "https://www.youtube.com/channel/UC3u9HGbqqyB8n4s5zA8otlA"
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: G-K1V4NB8ZLQ # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
   search: false # Enable the search feature
