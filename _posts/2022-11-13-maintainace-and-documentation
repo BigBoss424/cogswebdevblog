@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Maintainance and Documentation
-published: false
+published: true
 ---
 
 ## Maintainance
@@ -10,5 +10,18 @@ Maintainance of my machines has always been a struggle but I have hope now that 
 
 ### Cronjobs 
 
+I will be learning how to utilize cronjobs and crontabs on both my Arch Linux machine and my Raspberry Pi. The goal is to automate simple tasks such as updating and upgrading the system and eventually to the management of Github Repositories. 
+
+I will expand upon this further as I implement them today. 
+
+### Bash Scripting
+
+Now I find it imperative to relearn and reinforce my skills in bash scripting to help me build scripts to better manage my linux machines. I would like to eventually build scripts that implement that GUI aspect utilizing whiptail, I believe that's what it's called. For the time being though I will be developing my script solutions strictly in the terminal.
+
+I will utilizing the resources from, [Awesome Linux](https://github.com/BigBoss424/awesome-linux), my personalized fork. Specifically I will be looking in the 
 ## Documentation 
+
+Documentation wise, I am seeing alternatives to the Github Repo Wiki and utilizing options such as Gitbook and Docusaurus. Using Gitbook seems to be the easiest route for the time being, as setting up Docusaurus will take longer to implement, as Gitbook was ready, somewhat instantly. I like the structure of Gitbook so far, and plan on utilizing as my primary means of documentation for both my personal use and business use.
+
+Though I am still open to utilizing the Wiki on the Github Repo, I find it necessary to keep good documentation when it comes to developing the software and websites that I am working on. Though I seem to get lost in the process of creating the documentation though, and lose sight of development at times. 
 
