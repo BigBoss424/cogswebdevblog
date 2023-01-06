@@ -1,0 +1,18 @@
+---
+layout: post
+title: A New Year
+published: true
+---
+## A New Year
+
+Today is a new year and I am focusing on developing of the site and have started development utilizing node.js in order to build it. I am learning how to integrate node.js and firebase together to host my site, in order for me to start learning how to utilize Github Actions or other CI/CD tools in order to create a pipeline towards pushing the site online. 
+
+I will also be exploring other aspects of the Firebase platform in order to get the website to start having features that are a part of the platform. Though I don't like the limitations on the platform, it does help make things simpler when it comes to deploying the application. 
+
+### Development
+
+I will be learning how to host my application on Firebase as it is written in node.js. I will also be learning how to create better template files using pug. And explore other options as I learn different ways of implementing differenting programming structures. I would like to implement the realtime database, the other features of the Firebase platform but I am still learning how to develop using node.js. 
+
+### Research
+
+As I begin to expand my website, I will be looking into utilizing different means to build the services I require to build in order to provide the hosting service and other features that I will be adding to the site. For the time being though I will be using 
