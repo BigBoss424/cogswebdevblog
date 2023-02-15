@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Progress
+feature-img: assets/img/sample_feature_img_2.png
 permalink: /progress/
 ---
 
-# Progress
+## Progress
 
 This page will be dedicated the progress of the company website being developed. As there are many things about this blog that I must learn and edit as I develop a better understanding of Jekyll and running it on Github through Github Pages.
 
